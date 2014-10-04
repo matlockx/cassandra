@@ -1,7 +1,7 @@
 Cassandra on Docker
 ===================
 
-This is a collection of images and scripts to help you run Cassandra 2.1 in Docker containers cloned from poklet/cassandra. Main differences:
+This is a collection of images and scripts to help you run Cassandra 2.1 in Docker containers cloned from poklet/cassandra. Main difference:
 
 * using cassandra 2.1
 
